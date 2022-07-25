@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/developerallcloudgithup1.lwc-l614qd71",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve FQJ5RccZrPPfuaXIufhv --open"
+  }
+}
